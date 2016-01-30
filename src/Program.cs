@@ -13,6 +13,9 @@ namespace OpenCvTest
     {
         /// <summary>
         /// The main entry point for the application.
+        /// NOTE:
+        ///     Lots of hard-coded paths here - fix them before running. You'll need to provide
+        ///     your own image file.
         /// </summary>
         [STAThread]
         static void Main()
